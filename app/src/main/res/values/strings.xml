@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="movie_shared_pref">com.test.movieapp.shared_pref</string>
+    <string name="free">Free</string>
+    <string name="itunes_movie_list">Itunes Movie List</string>
+    <string name="txt_last_visit">Last Visited: </string>
+    <string name="itunes_movie_detail">Movie Detail</string>
+    <string name="just_now">Just Now</string>
+</resources>
